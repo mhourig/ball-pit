@@ -7,7 +7,7 @@ an openFrameworks project that's like playing in a ball pit
 
 ##to use
 * upload code to controller
-* make a new openFrameworks project in the projectGenerator
+* make new ofx app in projectGenerator
 * replace src files with the 3 included here
 
 ![FSR](https://fabigan.files.wordpress.com/2016/07/fsrtestone.jpg?w=400 "FSR")
