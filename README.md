@@ -16,6 +16,8 @@ an openFrameworks project that's like playing in a ball pit
 
 the FSR I made with velostat and copper tape! => [tutorial](http://iainmccurdy.org/diy/forcesensorlowprofile/)
 
+when you hit the pad, the ball pit will jump
+
 ![the project](https://fabigan.files.wordpress.com/2016/09/screen-shot-2016-09-10-at-12-45-12-pm.png?w=768)
 
 
