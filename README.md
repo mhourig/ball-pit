@@ -3,8 +3,6 @@ an openFrameworks project that's like playing in a ball pit
 
 ##project components
 * a force sensitive resistor (any input will work)
-* arduino
-* openFrameworks
 * [ofxSimpleSerial](https://github.com/LeoColomb/ofxSimpleSerial) + [ofxBox2D](https://github.com/vanderlin/ofxBox2d)
 
 ##to run
