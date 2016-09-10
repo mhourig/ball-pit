@@ -5,7 +5,7 @@ an openFrameworks project that's like playing in a ball pit
 * a force sensitive resistor (any input will work)
 * [ofxSimpleSerial](https://github.com/LeoColomb/ofxSimpleSerial) + [ofxBox2D](https://github.com/vanderlin/ofxBox2d)
 
-##to use
+##to run
 * upload code to controller
 * make new ofx app in projectGenerator
 * replace src files with the 3 included here
