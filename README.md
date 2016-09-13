@@ -7,7 +7,7 @@ an openFrameworks project that's like playing in a ball pit
 
 ##to run
 * upload code to controller
-* make new ofx app in projectGenerator
+* make new ofx app in projectGenerator, include ofxSimpleSerial + ofxBox2D
 * replace src files with the 3 included here
 
 ![FSR](https://fabigan.files.wordpress.com/2016/07/fsrtestone.jpg?w=400 "FSR")
